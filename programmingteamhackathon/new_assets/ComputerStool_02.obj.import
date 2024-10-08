@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://b2ayc14diodc"
+path="res://.godot/imported/ComputerStool_02.obj-b1cf2ee6e93db5e4c642fc1650d07576.mesh"
+
+[deps]
+
+files=["res://.godot/imported/ComputerStool_02.obj-b1cf2ee6e93db5e4c642fc1650d07576.mesh"]
+
+source_file="res://new_assets/ComputerStool_02.obj"
+dest_files=["res://.godot/imported/ComputerStool_02.obj-b1cf2ee6e93db5e4c642fc1650d07576.mesh", "res://.godot/imported/ComputerStool_02.obj-b1cf2ee6e93db5e4c642fc1650d07576.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

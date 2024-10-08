@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://byj1nngsddjpv"
+path="res://.godot/imported/Mouse_01.obj-ff2b0fd4d86f4269dbe00def9e0d9a45.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Mouse_01.obj-ff2b0fd4d86f4269dbe00def9e0d9a45.mesh"]
+
+source_file="res://new_assets/Mouse_01.obj"
+dest_files=["res://.godot/imported/Mouse_01.obj-ff2b0fd4d86f4269dbe00def9e0d9a45.mesh", "res://.godot/imported/Mouse_01.obj-ff2b0fd4d86f4269dbe00def9e0d9a45.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

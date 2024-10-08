@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cghf8o8d8f331"
+path="res://.godot/imported/Bar_Chair.obj-b57ac708ec13a05c3685e1c08106fda6.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Bar_Chair.obj-b57ac708ec13a05c3685e1c08106fda6.mesh"]
+
+source_file="res://new_assets/Bar_Chair.obj"
+dest_files=["res://.godot/imported/Bar_Chair.obj-b57ac708ec13a05c3685e1c08106fda6.mesh", "res://.godot/imported/Bar_Chair.obj-b57ac708ec13a05c3685e1c08106fda6.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

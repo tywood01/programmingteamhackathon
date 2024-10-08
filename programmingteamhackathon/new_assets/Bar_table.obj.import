@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://bu0s8cfk6t8oq"
+path="res://.godot/imported/Bar_table.obj-f490977bd6b8c4bcdbafaabcb0c90b35.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Bar_table.obj-f490977bd6b8c4bcdbafaabcb0c90b35.mesh"]
+
+source_file="res://new_assets/Bar_table.obj"
+dest_files=["res://.godot/imported/Bar_table.obj-f490977bd6b8c4bcdbafaabcb0c90b35.mesh", "res://.godot/imported/Bar_table.obj-f490977bd6b8c4bcdbafaabcb0c90b35.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

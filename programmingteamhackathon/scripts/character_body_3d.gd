@@ -49,6 +49,8 @@ func _physics_process(delta):
 			collider = interaction.get_collider()
 			holding = not holding
 			
+	
+			
 	if not holding:
 		collider = null
 	

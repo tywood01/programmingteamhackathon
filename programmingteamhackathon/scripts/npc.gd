@@ -1,8 +1,9 @@
 extends CharacterBody3D
 
 @onready var agent = $NavigationAgent3D
+@onready var footsteps = $footsteps
 
-const SPEED  = 2
+const SPEED  = 1.8
 var player: Node3D
 var target: Vector3
 
@@ -14,8 +15,9 @@ func _ready():
 
 
 func _physics_process(delta):
+	footsteps.play()
 	# Continuously update the target to follow the player
-	target =  Vector3(0,0,-20)
+	target =  Vector3(0,0,-8)
 	#target = player.global_transform.origin
 	update_target_loc(target)
 

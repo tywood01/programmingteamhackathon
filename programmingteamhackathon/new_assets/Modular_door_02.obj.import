@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://64wie6vm07hm"
+path="res://.godot/imported/Modular_door_02.obj-824d0b62538ea7153140de8663551a08.mesh"
+
+[deps]
+
+files=["res://.godot/imported/Modular_door_02.obj-824d0b62538ea7153140de8663551a08.mesh"]
+
+source_file="res://new_assets/Modular_door_02.obj"
+dest_files=["res://.godot/imported/Modular_door_02.obj-824d0b62538ea7153140de8663551a08.mesh", "res://.godot/imported/Modular_door_02.obj-824d0b62538ea7153140de8663551a08.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

@@ -1,7 +1,7 @@
 [gd_scene load_steps=5 format=3 uid="uid://ugqonaoo6hpe"]
 
 [ext_resource type="Script" path="res://scripts/character_body_3d.gd" id="1_8e8lb"]
-[ext_resource type="PackedScene" uid="uid://bik7ad6ds3det" path="res://player/Y Bot.fbx" id="2_evi1u"]
+[ext_resource type="PackedScene" uid="uid://bik7ad6ds3det" path="res://scenes/Y Bot.fbx" id="2_evi1u"]
 
 [sub_resource type="CapsuleShape3D" id="CapsuleShape3D_or2s7"]
 
@@ -25,6 +25,7 @@ shape = SubResource("CapsuleShape3D_or2s7")
 
 [node name="Camera3D" type="Camera3D" parent="."]
 transform = Transform3D(1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0.699064, -0.179593)
+current = true
 
 [node name="Interaction" type="RayCast3D" parent="Camera3D"]
 target_position = Vector3(0, 0, -5)
